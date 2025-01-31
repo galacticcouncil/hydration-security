@@ -1,5 +1,5 @@
-# HydraDX-security
-A collection of security resources relating to the HydraDX blockchain:
+# Hydration-security
+A collection of security resources relating to the Hydration (formerly HydraDX) blockchain:
 
 * [Audit Reports](/audit-reports)
 * [Critical Vulnerability Reports](/criticals.md)

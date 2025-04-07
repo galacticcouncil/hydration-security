@@ -8,6 +8,26 @@ A collection of security resources relating to the Hydration (formerly HydraDX) 
 * [Threat Modelling](/threat_modelling.md) - a collection of known attack vectors
 
 ## Audit Reports
+### April 2025 - Stablepools with Drifting Peg Audit by OAK Security
+Conducted by [OAK Security](https://www.oaksecurity.io/), (to be) published in April 2025.  
+Read the (draft) report [here](/audit-reports/250420-OAK-stablepools-drifting-peg.pdf).
+
+### April 2025 - Money Market On-Chain Liquidations by Cantina
+Conducted by [Spearbit / Cantina](https://cantina.xyz/), published in April 2025.  
+Read the full report [here](/audit-reports/250407-cantina-liquidations.pdf).
+
+### January 2025 - AAVE v3 (Money Market) Deployment by Cantina
+Conducted by [Spearbit / Cantina](https://cantina.xyz/), published in January 2025.  
+Read the full report [here](/audit-reports/250123-cantina-aave-deployment.pdf).
+
+### October 2024 - ERC20 Mapping Audit by Pashov Audit Group
+Conducted by [Pashov Audit Group](https://www.pashov.net/), published in October 2024.  
+Read the full report [here](/audit-reports/241017-pashov-erc20-mapping.pdf).
+
+### June 2024 - EVM Precompiles Audit by SRLabs
+Conducted by [SRLabs](https://www.srlabs.de/), published in June 2024.  
+Read the full report [here](/audit-reports/240603-SRLabs-evm-precompiles.pdf).
+
 ### April 2024 - Code4rena Challenge
 Conducted by 27 independent security researchers that participated in an audit challenge on Code4rena.  
 Scope: Omnipool, Stablepools, Oracles, Circuit Breaker.  

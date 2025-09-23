@@ -8,9 +8,14 @@ A collection of security resources relating to the Hydration (formerly HydraDX) 
 * [Threat Modelling](/threat_modelling.md) - a collection of known attack vectors
 
 ## Audit Reports
-### April 2025 - Stablepools with Drifting Peg Audit by OAK Security
-Conducted by [OAK Security](https://www.oaksecurity.io/), (to be) published in April 2025.  
-Read the (draft) report [here](/audit-reports/250420-OAK-stablepools-drifting-peg.pdf).
+
+### June 2025 - Hollar Stability Module (Peg Support) Audit by Cantina
+Conducted by [Spearbit / Cantina](https://cantina.xyz/), published in June 2025.  
+Read the full report [here](/audit-reports/250628-cantina-hollar-stability-module.pdf).
+
+### May 2025 - Stablepools with Drifting Peg Audit by OAK Security
+Conducted by [OAK Security](https://www.oaksecurity.io/), published in May 2025.  
+Read the (draft) report [here](/audit-reports/250520-OAK-stablepools-drifting-peg.pdf).
 
 ### April 2025 - Money Market On-Chain Liquidations by Cantina
 Conducted by [Spearbit / Cantina](https://cantina.xyz/), published in April 2025.  
